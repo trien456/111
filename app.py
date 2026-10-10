@@ -74,4 +74,4 @@ st.pyplot(fig)
 
 # 7. Thông tin sinh viên tạo ứng dụng ở cuối trang
 st.markdown("<br><hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; font-size: 12px; color: gray;'>Họ và tên: [Tên của bạn] | MSSV: [Mã số sinh viên của bạn]</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 12px; color: gray;'>Họ và tên: [BÙI MẠNH TRIỂN] | MSSV: [052208001342]</p>", unsafe_allow_html=True)
